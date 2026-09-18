@@ -1,0 +1,4 @@
+boto3
+weasyprint
+pytest
+moto[s3,iam,ec2]
